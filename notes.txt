@@ -1,0 +1,3 @@
+nome e caminho da venv: ambiente 
+source ambiente/bin/activate
+deactivate
